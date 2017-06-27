@@ -1,2 +1,5 @@
-# Stenograph
-Simple PHP wysiwyg content editor for blogging
+Simple wysiwyg visual editor in PHP
+
+--> Model configuration in ~/Classes/
+
+--> SQL dump file in bin/stenograph.sql
